@@ -1,0 +1,9 @@
+body {
+  background: blanchedalmond;
+}
+.btn-logout {
+  background-color: rgb(255, 0, 64);
+}
+.btn-success {
+  background-color: aquamarine;
+}
